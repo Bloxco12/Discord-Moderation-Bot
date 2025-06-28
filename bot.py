@@ -147,4 +147,4 @@ if __name__ == "__main__":
     intents.message_content = True
     # Run the bot instance
     bot = ModerationBot(intents)
-    bot.run(MTM4ODM0MjQzNjMxMjY0OTgyMA.GV14fN.9CEg5F2B6J5EQoHuwhlOBcGH7S0CE4KZkAuAFk)
+    bot.run(TOKEN)
